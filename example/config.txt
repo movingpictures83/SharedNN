@@ -1,0 +1,2 @@
+Prefix plugins/SharedNN/example/
+Plugin SharedNN inputfile IRLBA.rds outputfile SNN.rds
